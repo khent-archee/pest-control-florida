@@ -57,7 +57,7 @@ export default async function DirectoryPage() {
       <section className="h-[220px] md:h-[420px] w-full">
         <div className="aspect-w-16 aspect-h-9 relative w-full h-full">
           <Image
-            src="/images/texas.jpg"
+            src="/images/cityscape.jpg"
             alt="Hero"
             layout="fill"
             objectFit="cover"
