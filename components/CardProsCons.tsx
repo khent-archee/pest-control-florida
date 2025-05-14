@@ -25,6 +25,7 @@ const getIcon = (name: string) =>
     flies: <ImageIcon name={name} size="sm" />,
     wasps: <ImageIcon name={name} size="sm" />,
     scorpions: <ImageIcon name={name} size="sm" />,
+    mosquitoes: <ImageIcon name={name} size="sm" />,
     quality: <ImageIcon name={name} size="sm" />,
     inspection_treatment: <ImageIcon name={name} size="sm" />,
     responsive: <ResponsiveIcon size="sm" />,

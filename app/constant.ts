@@ -37,6 +37,7 @@ export const features = [
   { key: "flies", label: "Flies", titleOverride: "Fly Control Services" },
   { key: "wasps", label: "Wasps", titleOverride: "Wasp Control Services" },
   { key: "scorpions", label: "Scorpions", titleOverride: "Scorpion Control Services" },
+  { key: "mosquitoes", label: "Mosquitoes", titleOverride: "Mosquito Control Services" },
   { key: "inspection_treatment", label: "Inspection & Treatment" },
   { key: "quality", label: "Service Quality" },
   { key: "responsive", label: "Responsiveness" },
